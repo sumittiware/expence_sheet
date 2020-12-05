@@ -1,6 +1,9 @@
 # expence_caluclator
 
-A new Flutter project.
+A Flutter project That will help you to manage your weekly expences with the features:
+-> Managing App wide state using providers.
+-> Storing the data locally to the device and working on it using sqflite package.
+
 
 ## Getting Started
 
